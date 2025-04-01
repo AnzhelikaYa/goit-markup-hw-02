@@ -38,15 +38,13 @@ body {
 .header-nav-link:hover,.header-nav-link:focus{
     color: #404bbf;
 }
-
-.addres-style{
+.address-style{
     font-style: normal
 }
 .address-link{
     font-family: "Roboto", sans-serif;
     font-weight: 400;
         font-size: 16px;
-    
         /* line-height: 24px; */
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -116,7 +114,9 @@ font-family: "Roboto", sans-serif;
         text-align: center;
         color: #2e2f42;
 }
-
+.item-team{
+    background-color: #FFFFFF
+}
 .desc{
     font-family: "Roboto", sans-serif;
     font-weight: 400;
